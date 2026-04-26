@@ -14,7 +14,7 @@ function BrandMark() {
       </div>
       <div>
         <p className="font-display text-2xl leading-none text-white">Maspalomas Charter</p>
-        <p className="text-[11px] uppercase tracking-[0.32em] text-white/55">Gran Canaria</p>
+        <p className="text-[11px] uppercase tracking-[0.32em] text-white/55">Gran Canaria (GC)</p>
       </div>
     </a>
   )
