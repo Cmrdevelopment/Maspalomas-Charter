@@ -23,7 +23,7 @@ export const navItems = [
 ]
 
 export const stats = [
-  { value: 'Private', label: 'Experiencias exclusivas' },
+  { value: 'Private tours', label: 'Private tours • Ocean vibes • Party & Relax' },
   { value: 'Pasito Blanco', label: 'Salida premium en el sur' },
   { value: 'Family · Friends · Corporate', label: 'Planes adaptados' },
 ]
@@ -49,27 +49,27 @@ export const highlights = [
 export const experiences = [
   {
     icon: Anchor,
-    title: 'Charter privado',
-    text: 'La forma más elegante de descubrir la costa sur con total privacidad.',
+    title: '🎉 Bachelor Party',
+    text: 'Celebrate your bachelor party at sea with music, drinks, and unforgettable moments.',
     tag: 'Exclusivo',
   },
   {
     icon: Sunset,
-    title: 'Sunset experience',
-    text: 'Atardecer, navegación y una atmósfera premium para disfrutar sin interrupciones.',
+    title: '🌅 Sunset experience',
+    text: 'Enjoy a magical sunset cruise with relaxing vibes, ocean views, and golden light.',
     tag: 'Top plan',
   },
   {
     icon: Heart,
-    title: 'Celebraciones especiales',
-    text: 'Cumpleaños, aniversarios o momentos que merecen algo más memorable que una reserva cualquiera.',
+    title: '🎂 Birthday Party',
+    text: 'Make your birthday special at sea with great vibes, music, and unforgettable memories.',
     tag: 'Eventos',
   },
   {
     icon: CalendarHeart,
-    title: 'Family day at sea',
-    text: 'Un plan privado y diferente para compartir tiempo de calidad con niños y adultos.',
-    tag: 'Familias',
+    title: '🐬 Dolphins Watching',
+    text: 'Watch dolphins in their natural habitat and experience the ocean in a unique way.',
+    tag: 'Family',
   },
 ]
 
@@ -180,9 +180,9 @@ export const socialLinks = [
 ]
 
 export const contact = {
-  whatsappHref: 'https://wa.me/34685802723',
+  whatsappHref: 'https://wa.me/34603526087',
   phone: '+34 685 80 27 23',
-  phoneAlt: '+34 662 14 78 77',
+  phoneAlt: '+34 685 80 27 23',
   email: 'maspalomascharter@gmail.com',
   location: 'Pasito Blanco, Gran Canaria',
   bookingUrl: 'https://www.pasitoblanco.com/embarcaciones/maspalomas-charter-gran-canaria/',

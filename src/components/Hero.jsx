@@ -22,12 +22,10 @@ function Hero() {
               Pasito Blanco · Gran Canaria
             </p>
             <h1 className="max-w-4xl font-display text-5xl leading-[0.94] text-white sm:text-6xl lg:text-8xl">
-              Private yacht experiences with a premium island feel.
+              Luxury Boat Experience in Gran Canaria
             </h1>
             <p className="mt-6 max-w-2xl text-base leading-7 text-white/78 sm:text-lg">
-              Una primera versión moderna, aspiracional y orientada a reservas para presentar
-              Maspalomas Charter como una experiencia privada en el mar para familias, amigos,
-              parejas y celebraciones especiales.
+              Experience a luxury yacht adventure in Maspalomas, cruising crystal waters and stunning coastlines. Enjoy a private, customizable tour with drinks, music, comfort, and unforgettable moments with friends or family.
             </p>
 
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">

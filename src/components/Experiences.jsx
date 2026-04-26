@@ -6,9 +6,9 @@ function Experiences() {
     <section id="experiencias" className="px-4 py-20 sm:px-6 lg:px-10">
       <div className="mx-auto max-w-7xl">
         <SectionHeading
-          eyebrow="Experiences"
-          title="Planes diseñados para vender mucho más que un barco"
-          text="En esta primera versión, la web presenta experiencias aspiracionales y flexibles para reforzar el posicionamiento premium de la marca."
+          eyebrow="🌊 Maspalomas Charter Experience"
+          title="Enjoy a luxury private yacht experience in Gran Canaria"
+          text="Enjoy a luxury private yacht experience in Gran Canaria with stunning coastlines, music, drinks, and unforgettable ocean moments."
           align="center"
         />
 
